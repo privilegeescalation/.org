@@ -15,7 +15,7 @@ Params:
   description: "Elevated access to resources for determined transgender minds in STEM"
 
   # logoBig appears at the top of the page. Use a path relative to the assets dir for auto-resizing. 
-  logoBig: "/images/charlie.png"
+  logoBig: "/images/privilege-escalation.png"
 
   # logoSmall is the logo that will be shown in the left corner of the nav bar.
   #   Use a path relative to the assets dir for auto-resizing.
@@ -94,16 +94,19 @@ Menu:
       identifier: about # the identifier controls the section type (and therewith the appearence).
       url: "/#about"
       weight: 1
-    - name: "Stories"
-      identifier: blog
-      url: "/#blog"
+    - name: "Resources"
+      identifier: resources
+      url: "/#resources"
+      weight: 2
+    - name: "Contribute"
+      identif1ier: contribute
+      url: "/#contribute"
       weight: 3
+    - name: "Stories"
+      identifier: stories
+      url: "/#stories"
+      weight: 4
     - name: "Contact"
       identifier: contact
       url: "/#contact"
-      weight: 4
-    # Use icon here to back reference an external site:
-    - pre: "<i class='icon icon-link-ext'></i>&nbsp;"
-      name: ""
-      url: "https://pyotek.dev"
       weight: 5
