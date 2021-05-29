@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}" class="no-js">
+  {{ partial "head.html" . }}
+  <body>
+    {{ partial "body-top" . }}
+    <main>
+
+      {{ range $i, $m := .Site.Menus.main -}}
+          {{ $partial := printf "partials/sections/%s.html" $m.Identifier }}
+          {{ if templates.Exists $partial }}
+            <section class="{{ .Identifier }}" id="{{ replace (replace .URL "/" "") "#" "" }}">
+            {{ $page := $m.Page }}
+            {{ if eq $page nil -}}
+              {{ $page = $.Site.GetPage .Identifier }}
+            {{- end }}
+            {{ partial $partial $page }}
+            </section>
+          {{ else if .Page }}
+            <section class="default" id="{{ replace (replace .URL "/" "") "#" "" }}">
+            {{ partial "partials/sections/default.html" $m.Page }}
+            </section>
+          {{- end }}
+      {{- end }}
+
+    </main>
+    {{ partial "footer.html" . }}
+    {{ partial "body-bottom" . }}
+  </body>
+</html>
