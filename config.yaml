@@ -1,10 +1,8 @@
-title: "Privilege Escalation"
+title: "The Privilege Escalation Foundation"
 baseURL: "/"
 languageCode: "en-US"
-theme: "osprey-delight"
+theme: "privilege-escalation"
 tags: ["Transgender", "Nonprofit", "Support", "Resources", "Privilege"]
-#canonifyURLS: true
-#googleAnalytics: ""
 disableKinds: ["taxonomy", "taxonomyTerm"]
 enableEmoji: true
 pygmentsUseClasses: true
@@ -29,7 +27,7 @@ Params:
   mdTagline: "# The Privilege Escalation Foundation\n ## Elevated access to resources for brilliant **transgender** minds.{cursor}"
   favicon: "favicon.png"
 
-  opengraphImage: "/images/osprey-delight.png"
+  opengraphImage: "/images/privilege-escalation.png"
 
   # enforceSinglePage will enforce redirection to the baseURL for all sub-directories/-pages.
   #   Example: If you create about.md, Hugo will also create a '/about/index.html'. This file will contain only a redirect directive if this switch is enabled.
@@ -37,20 +35,14 @@ Params:
 
   # copyright flag generates a copyright notice in footer for your site.
   copyright: true
+  smallFooter: "501(c)(3) nonprofit."
 
 ## Social links in footer:
   Social:
   - type: twitter # the icon to use. can be anything mentioned in "assets/sass/_icons.scss" 
-    url: ""
-  - type: linkedin 
-    url: ""
+    url: "https://twitter.com/setuid_org"
   - type: github
-    url: github = "https://github.com/kdevo/osprey-delight"
-  - type: stackoverflow  
-    url: ""
-  - type: spotify
-    url: https://open.spotify.com/artist/5NhBOdJh6T1tgtM5Au1Opl
-
+    url: "https://github.com/privilegeescalation"
 
 ## Theme features:
   Feat:
@@ -74,16 +66,9 @@ Params:
 
     googleTagManager: ""
   
-  # Expert mode: Configure image resizing (some of the settings are not yet publicly documented)
   Image:
     Logo:
-      resize: "300x"
-
-    Gallery:
-      resize: "400x"
-
-    # Background:
-    #   resize: "1920x"
+      resize: "20x"
       
 
 ## The menu items are automatically added to navbar. Use content files for more advanced usage.
@@ -91,20 +76,17 @@ Params:
 Menu:
   Main:
     - name: "About"
-      identifier: about # the identifier controls the section type (and therewith the appearence).
+      identifier: about
       url: "/#about"
       weight: 1
     - name: "Resources"
-      identifier: resources
-      url: "/#resources"
+      url: "/resources"
       weight: 2
     - name: "Contribute"
-      identif1ier: contribute
-      url: "/#contribute"
+      url: "/contribute"
       weight: 3
     - name: "Stories"
-      identifier: stories
-      url: "/#stories"
+      url: "/stories"
       weight: 4
     - name: "Contact"
       identifier: contact

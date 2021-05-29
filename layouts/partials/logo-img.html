@@ -1,6 +1,6 @@
 {{ $scratch := newScratch }}
 {{ with (resources.Get .Site.Params.logoBig) -}}
-    {{ $resize := default (printf "%dx" (cond (lt .Width 1200) .Width 1200)) $.Site.Params.Image.Logo.resize }}
+    {{ $resize := default (printf "%dx" (cond (lt .Width 800) .Width 800)) $.Site.Params.Image.Logo.resize }}
     {{ $resizeOptions :=  default "MitchellNetravali q85" $.Site.Params.Image.Logo.resizeOptions }}
     {{ $resizeLQIP := default "200x" $.Site.Params.Image.Logo.resizeLQIP }}
     {{ $useLQIP := default true $.Site.Params.Image.Logo.useLQIP }}

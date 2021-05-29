@@ -1,0 +1,108 @@
+@import "flexboxgrid-stripped";
+@import "colors";
+@import "fontface";
+@import "fontsizing";
+@import "icons";
+@import "animation";
+@import "layout";
+@import "base";
+@import "modal";
+@import "about";
+@import "gallery";
+{{ if (.Page.Scratch.Get "blog") -}}
+@import "blog";
+{{- end }}
+
+h1,
+h2,
+h3 {
+  margin-bottom: $vertical-rhythm;
+  font-family: $font-header;
+  letter-spacing: 2px;
+  line-height: 1.45;
+
+  a {
+    text-decoration: none;
+  }
+}
+
+blockquote {
+  color: $alt-text-color;
+  padding-left: 15px;
+  font-style: bold;
+  font-size: 1.3 REM;
+  font-family: "Work Sans";
+}
+
+.home-logo {
+  max-height: 10 * $vertical-rhythm;
+  margin-bottom: $vertical-rhythm;
+}
+
+{{ if .Site.Params.Feat.useTermynal -}}
+$term_title: "{{ .Site.Data.terminal.title }}";
+@import "termynal";
+.term-content {
+  max-height: calc(80vh - 20vh);
+  overflow-y: auto;
+}
+{{- end }}
+
+@import "nav";
+
+// TODO(kdevo): only used in 404, refactor!
+.full {
+  top: 0;
+  bottom: 0;
+  height: 100vh;
+}
+
+@import "contact";
+
+
+{{ if .Site.Params.background -}}
+  {{ $scratch := newScratch }}
+  {{ $imgSize := default "1920x" .Site.Params.Image.Background.resize }}
+  {{ $lqipSize := default "500x" .Site.Params.Image.Background.resizeLQIP }}
+  {{ $useLQIP := default true .Site.Params.Image.Background.useLQIP }}
+  {{ $resizeOptions := default "jpg q90 Lanczos" .Site.Params.Image.Background.resizeOptions }}
+  {{ with (resources.Get .Site.Params.background) -}}
+      {{ $image := .Resize (printf "%s %s" $imgSize $resizeOptions) }}
+      {{ $scratch.Set "img" $image.Permalink }}
+      {{ $scratch.Set "imgW" $image.Width }}
+      {{ $scratch.Set "imgH" $image.Height }}
+
+      {{ if $useLQIP -}}
+          {{ $lqip := $image.Resize (printf "%s %s" $lqipSize $resizeOptions) }}
+          {{ $scratch.Set "imgPreview" $lqip.Permalink }}
+          {{ $scratch.Set "imgPlaceholderRes" $lqip }}
+      {{- end }}
+  {{- else -}}
+      {{ $scratch.Set "img" .Site.Params.background }}
+  {{- end }}
+
+  .bg {
+    {{ with $scratch.Get "imgPlaceholderRes" }}
+      background-image: url("{{ .Permalink }}"); 
+    {{- else -}}
+      background-image: url("{{ $scratch.Get "img" }}");
+    {{- end }}
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  {{ with $scratch.Get "imgPlaceholderRes" -}}
+  @media (min-width: {{ .Width }}px) {
+      .bg.lazyloaded {
+        transition: background-image 1.5s;
+        background-image: url("{{ $scratch.Get "img" }}"), url("{{ .Permalink }}"); 
+      }
+  }
+  {{- end }}
+{{ end }}
+@import "custom";

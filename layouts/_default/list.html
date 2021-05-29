@@ -18,7 +18,7 @@
                 <article>
                   <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                   <div class=sub-header>
-                    {{ .Date.Format (.Site.Params.dateform | default "January 2, 2006") }} · {{ i18n "minuteRead" .ReadingTime }}
+                    {{ .Params.sub }}
                   </div>
                 </article>
               {{ end }}
