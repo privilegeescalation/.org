@@ -6,8 +6,8 @@ draft = false
 
 ## We believe brilliant minds deserve safe bodies.
 
-The privilege escalation foundation was started with nothing more than a **broken heart**, **hope**, and a tiny server in **San Francisco, California**.
+The Privilege Escalation Foundation was started with nothing more than a **broken heart**, **hope**, and a **linux server** in **San Francisco, California**.
 
-Our dream is to enable **gender confirming healthcare** and support for transgender minds in **STEM**.
+Our dream is to enable **gender confirming healthcare**, **financial resources**, and **overall support** for transgender minds in **STEM**.
 
 We believe that a **brilliant mind** should never have a **broken body** stand in their way of greatness.

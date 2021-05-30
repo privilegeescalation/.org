@@ -9,7 +9,7 @@
   function changeNavHeader(idx) {
       ITEMS.forEach((itm) => { itm.classList.remove("nav-item-active") })
       if (idx < SECTIONS.length) {
-        ITEMS[idx].classList.add("nav-item-active")
+        //ITEMS[idx].classList.add("nav-item-active")
       }
       oldIdx = idx
   }
