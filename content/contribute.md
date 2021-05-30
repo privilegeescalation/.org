@@ -28,7 +28,7 @@ All of our work is **100% free** and always will be.
 
 We are [Apache2 open source licensed](https://github.com/privilegeescalation/.org/blob/main/LICENSE), and [readily available](https://github.com/privilegeescalation) on GitHub.
 
-{{< button-newtab "Join us on Discord!" "https://discord.com/channels/848438128230268938/848438128230268941" >}}
+{{< button-newtab "Join us on Discord!" "https://discord.gg/bnnpg6rqaJ" >}}
 
 ---
 
