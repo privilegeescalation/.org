@@ -1,6 +1,6 @@
 +++
 author = "Kris Nóva"
-title = "Humble Beginnings - Kris Nóva"
+title = "The Moment - Kris Nóva"
 date = "2021-05-28"
 description = "Founding The Privilege Escalation Foundation."
 tags = [
@@ -16,7 +16,7 @@ In 2021, I was sitting in a hospital bed in San Franciscio, California waiting t
 
 I remember thinking to myself
 
- > I sure hope I prepared my body adequately for the surgeon.
+ > I sure hope I prepared my body adequately for the surgeon for the afternoon.
  
 This was the moment that changed my life forever. 
 
@@ -34,7 +34,11 @@ The surgeon looked me in the eyes and said
 
 Of course, I was nervous. However -- I also am a master of controlling my anxiety and my nerves in frightening situations.
 
+I believe the surgeon was a bit startled at how calm I was during the entire ordeal.
+
 I was so skilled at detaching my mind from my body -- that I had taken it as far as considering what would or wouldn't be **polite** to deliver to a surgeon for the afternoon.
+
+The thought of having my skull split open and being kept alive for several hours by plastic tubes barely concerned me. 
 
 ## The Moment
 
@@ -50,4 +54,9 @@ I closed my eyes and relinquished control of my body for the last time. I knew w
 
 I promised myself from that moment forward -- that I would do everything in my power to see to it that no other determined transgender person would ever be limited by their body again.
 
+A mind truly is a terrible thing to waste, and our blatant lack of transgender support that was busy wasting minds was about to meet it's opponent.
+
+## Read More
+
+Read Kris Nóva's [founder's statement](/kris-nova).
 

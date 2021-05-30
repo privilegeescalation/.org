@@ -52,7 +52,7 @@ Params:
     useLazySizes: true
 
     # ajaxBasin uses Basin for a functional contact form.
-    ajaxBasin: "https://usebasin.com/f/{YOUR-12-CHAR-FORM-KEY-HERE}"
+    ajaxBasin: "https://usebasin.com/f/f93c92524415"
 
     # useStructuredData for your own https://schema.org/Person (SEO-friendly).
     #   This will be auto-generated dependent on the information you provide in this configuration.

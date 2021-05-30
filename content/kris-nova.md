@@ -37,7 +37,7 @@ She decided to **roll up her sleeves** and dedicate a substantial portion of her
 
 She has one simple goal.
 
- > To work towards a world where a transgender mind is never held back because of their body.
+ > To work towards a world where a transgender mind is never held back because of it's body.
  
-...and she has a lot of work to do. 
+...and both her mind -- and her body -- have a lot of work to do.
  

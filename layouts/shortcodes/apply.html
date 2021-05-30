@@ -1,0 +1,91 @@
+{{ if not site.Params.Feat.ajaxBasin }}
+{{ warnf "Please set site.Params.Feat.ajaxBasin in order to use the contact form!" }}
+{{ end }}
+<article>
+    <div class="row center-xs">
+        <div class="col-xs-12">
+            <h1><span class="icon icon-star"></span>Why You? <span class="icon icon-star"></h1>
+            <noscript>{{ i18n "nojsForm" }}</noscript>
+        </div>
+    </div>
+
+    <form id="form-apply" action="https://formspree.io" method="POST">
+        <div class="row center-xs">
+            <div class="col-xs-12 col-sm-6"><input type="text" name="name" aria-label="name" placeholder="{{ i18n "name" }}" required></div>
+            <div class="col-xs-12 col-sm-6"><input type="email" id="email" name="email" aria-label="email address" placeholder="{{ i18n "email" }}" required></div>
+            {{ if .Page.Params.selectKeys -}}
+            <div class="col-xs-12 col-sm-6">
+                <select name="matter" required aria-label="email matter">
+                    {{ range .Page.Params.selectKeys -}}
+                    <option value="{{ . }}">{{ i18n . }}</option>
+                    {{- end }}
+                </select>
+            </div>
+            {{- end }}
+            <div class="col-xs-12{{ if .Page.Params.selectKeys }} col-sm-6{{ end }}"><input type="text" name="_subject" aria-label="email subject" placeholder="{{ i18n "subject" }}" required></div>
+
+            <!-- Why you? -->
+            <span><h4>Why would <strong>you</strong> pick you?</h4></span>
+            <div class="col-xs-12">
+                <textarea name="why-you" aria-label="Please enable JS" required></textarea>
+            </div>
+
+            <!-- What is holding you back? -->
+            <span><h4>What is currently holding you back?</h4></span>
+            <div class="col-xs-12">
+                <textarea name="what-holding-back" aria-label="Please enable JS" required></textarea>
+            </div>
+
+            <!-- What do you really need? -->
+            <span><h4>What <strong>exactly</strong> do you need? Why?</h4></span>
+            <div class="col-xs-12">
+                <textarea name="what-really-need" aria-label="Please enable JS" required></textarea>
+            </div>
+
+            <!-- What would change? -->
+            <span><h4>What would change if this was magically solved? If you had <strong>funding/support</strong> today what would you do?</h4></span>
+            <div class="col-xs-12">
+                <textarea name="what-change-magic" aria-label="Please enable JS" required></textarea>
+            </div>
+
+            <!-- How would you pay it forward? -->
+            <span><h4>How would you pay it forward? Would you come back?</h4></span>
+            <div class="col-xs-12">
+                <textarea name="pay-it-forward" aria-label="Please enable JS" required></textarea>
+            </div>
+
+            <p>
+
+                We are still very new and we are unsure how many applications we will get.
+
+                Please save a copy of your responses locally!
+
+            </p>
+
+            <p>
+
+                When we have an idea of when our first sponsorship will be we will contact you.
+
+            </p>
+
+            <p>
+
+                You can also email <a href="mailto:nova@privilegeescalation.org">nova@privilegeescalation.org</a> these responses or questions you may have and skip the form.
+
+            </p>
+
+            <p>
+
+                Save your work before pressing send!
+
+            </p>
+
+            <div class="col-xs-12 contact-submit">
+                <input id="form-submit" type="submit" value="{{ i18n "send" }}">
+                <span id="form-sending" hidden><span class="icon icon-rocket"></span>{{ i18n "sendingEmail" }}</span>
+                <span id="form-thankyou" hidden><span class="icon icon-ok"></span>{{ i18n "thanksForYourEmail" }}</span>
+                <span id="form-error" hidden><span class="icon icon-attention"></span>{{ i18n "errorWhileSendingEmail" }}</span>
+            </div>
+        </div>
+    </form>
+</article>

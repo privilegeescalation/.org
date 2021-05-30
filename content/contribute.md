@@ -3,24 +3,25 @@ title = "Contribute"
 sub = ""
 +++
 
-We believe in **transparency** and leaving the world better than we found it.
+All contributions to the foundation are welcome. 🎉
 
-We believe that **collaboration** is more important than **competition**.
-
-We have **extremely high standards** for all that we do.
+ - All financial contributions are 🔐 secure and always anonymous.
+ - All volunteer work is subject to the Code of Conduct
+ - All knowledge share is subject to the Code of Conduct
 
 ## Donate 💰
 
-Our ledger is **100% transparent** and always will be.
+Our financial ledger is **100% transparent** and always will be.
 
 You can see where **every penny** is spent.
 
-We have a [rigorous vetting process](/apply) for all recipients.
+We have a [rigorous vetting process](/apply) for all sponsorship recipients.
 
-{{< button "Donate $1.00 or $1,000,000.00" "/donate" >}}
+All financial contributions are 501(c)(3) deductible.
+
+{{< button "Donate $1.00 to $1,000,000.00" "/donate" >}}
 
 ---
-
 
 ## 🗒 Collaborate
 

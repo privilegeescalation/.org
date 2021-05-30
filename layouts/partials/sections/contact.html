@@ -1,11 +1,30 @@
 {{ if not site.Params.Feat.ajaxBasin }}
   {{ warnf "Please set site.Params.Feat.ajaxBasin in order to use the contact form!" }} 
 {{ end }}
-<div class="container">
+<article class="container">
   <div class="row center-xs">
     <div class="col-xs-12">
-      <h1><span class="icon icon-mail"></span>{{ i18n "letsChat" }}</h1>
+      <h1><span class="icon icon-heart"></span>Contact Us</h1>
       <noscript>{{ i18n "nojsForm" }}</noscript>
+    </div>
+    <div>
+      <p>
+
+        We try to follow up with all requests as soon as possible. Please be patient with us as we are still learning and growing.
+
+      </p>
+      <p>
+
+        Please include what you are looking for in every request as we continue to build out various parts of the system. Make sure to let us know what we can provide for us to be as successful as possible.
+
+      </p>
+      <p>
+
+        We know you love us, and we love you too!
+        </p>
+        <p>
+        If you want to tell us you love us please mention <a href="https://twitter.com/setuid_org" style="color: #F5ABB9">@setuid_org</a> on Twitter <icon class="icon icon-twitter"> and save us both the email.
+      </p>
     </div>
   </div>
 
@@ -37,4 +56,4 @@
       </div>
     </div>
   </form>
-</div>
+</article>
