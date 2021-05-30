@@ -6,8 +6,10 @@ draft = false
 
 ## We believe brilliant minds deserve safe bodies.
 
-The Privilege Escalation Foundation was started with nothing more than a **broken heart**, **hope**, and a **linux server** in **San Francisco, California**.
+Founded by [Kris Nóva](/kris-nova) in 2021 with nothing more than a **broken heart**, **hope**, and a **linux server** in **San Francisco, California**.
 
 Our dream is to enable **gender confirming healthcare**, **financial resources**, and **overall support** for transgender minds in **STEM**.
 
 We believe that a **brilliant mind** should never have a **broken body** stand in their way of greatness.
+
+{{< button "Apply for a sponsorship." "/apply" >}}

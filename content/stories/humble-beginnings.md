@@ -1,6 +1,6 @@
 +++
 author = "Kris Nóva"
-title = "Humble Beginnings"
+title = "Humble Beginnings - Kris Nóva"
 date = "2021-05-28"
 description = "Founding The Privilege Escalation Foundation."
 tags = [

@@ -14,7 +14,17 @@
 {{- end }}
 
 article a {
-  color: $accent-color;
+  color: $alt-text-color;
+}
+
+.quote-author {
+  padding-top: 10px;
+  text-align: right;
+}
+
+article hr {
+  border: 20px solid transparent;
+  border-radius: 10px;
 }
 
 h1,

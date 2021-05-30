@@ -99,8 +99,8 @@ Menu:
       url: "/#work"
       weight: 2
     - name: "Blog"
-      identifier: blog
-      url: "/#blog"
+      identifier: stories
+      url: "/#stories"
       weight: 3
     - name: "Contact"
       identifier: contact
