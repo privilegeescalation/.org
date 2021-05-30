@@ -9,6 +9,12 @@ We identify determined minds in STEM who are currently **blocked** from reaching
 
 {{< quote "Blockers are for puberty -- not for our future scientists." "Quintessence Anx" "https://twitter.com/QuintessenceAnx">}}
 
+For the latest resources please see the [contribution](/contribute) page to learn how to get involved.
+
+{{< button-newtab "Follow us on Twitter for the latest updates!" "https://twitter.com/setuid_org">}}
+
+---
+
 ## Healthcare 🏥
 
 Are you **transgender**? Are you **queer**? Are you **fed up** and **traumatized** from an absence of healthcare?
