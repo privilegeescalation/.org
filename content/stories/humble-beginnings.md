@@ -12,11 +12,42 @@ tags = [
 ]
 +++
 
-In 2021 I was sitting in a hospital bed in San Franciscio, California waiting to go into facial feminization surgery.
+In 2021, I was sitting in a hospital bed in San Franciscio, California waiting to go into facial feminization surgery.
 
 I remember thinking to myself
 
- > I sure hope I prepared my body adequately for the surgeon. How embarrassing if I forgot to empty my bowels or clean somewhere well enough.
+ > I sure hope I prepared my body adequately for the surgeon.
  
 This was the moment that changed my life forever. 
+
+## Alpine Climbing
+
+For those of you who don't know -- I am an avid alpine ice climber. 
+
+A large portion of doing any high-resk extreme sport like ice climbing is an ability to achieve a zen like state I call **the ultimate focus**.
+
+Being able to detach your mind from your body and trust in your mind's ability to govern your body despite it's raw instinct is a critical skill to master.
+
+The surgeon looked me in the eyes and said
+
+ > Well it would be weird if you weren't... a little... nervous...
+
+Of course, I was nervous. However -- I also am a master of controlling my anxiety and my nerves in frightening situations.
+
+I was so skilled at detaching my mind from my body -- that I had taken it as far as considering what would or wouldn't be **polite** to deliver to a surgeon for the afternoon.
+
+## The Moment
+
+It was then that I realized that I had been detaching inner self from my body my entire life. 
+
+I was truly reckless because my body was a **nuisance at best**. An ugly and broken vehicle for me to travel through this universe.
+
+The amount of relentless work, energy, and effort required to fix my body was almost impossible to achieve simply because my body itself was the thing that was limiting my potential.
+
+I casually strolled into the operating room and high-fived my surgeon on the way in. 
+
+I closed my eyes and relinquished control of my body for the last time. I knew when I awoke my body was never going to limit my potential ever again.
+
+I promised myself from that moment forward -- that I would do everything in my power to see to it that no other determined transgender person would ever be limited by their body again.
+
 
