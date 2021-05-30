@@ -42,7 +42,7 @@ The thought of having my skull split open and being kept alive for several hours
 
 ## The Moment
 
-It was then that I realized that I had been detaching inner self from my body my entire life. 
+It was then that I realized that I had been detaching my inner self from my body my entire life. 
 
 I was truly reckless because my body was a **nuisance at best**. An ugly and broken vehicle for me to travel through this universe.
 

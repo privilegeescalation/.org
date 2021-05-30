@@ -17,7 +17,7 @@ She hopes to offer a brighter future for future minds in her field of work.
 
 Ultimately she believes 
 
- > that a brilliant mind should never be held back by a broken body.
+ > that a brilliant mind should never be held back by an unsafe body.
 
 ## Her Struggle 
 
@@ -37,7 +37,7 @@ She decided to **roll up her sleeves** and dedicate a substantial portion of her
 
 She has one simple goal.
 
- > To work towards a world where a transgender mind is never held back because of it's body.
+ > To work towards a world where a transgender mind is never held back because of an unsafe body.
  
 ...and both her mind -- and her body -- have a lot of work to do.
  
