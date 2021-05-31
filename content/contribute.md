@@ -5,21 +5,35 @@ sub = ""
 
 All contributions to the foundation are welcome. 🎉
 
- - All financial contributions are 🔐 secure and always anonymous.
+ - All donations go immediately towards helping transgender minds
  - All volunteer work is subject to the Code of Conduct
  - All knowledge share is subject to the Code of Conduct
 
+---
+
 ## Donate 💰
 
-Our financial ledger is **100% transparent** and always will be.
-
-You can see where **every penny** is spent.
+Our financial ledger is **100% transparent** and always will be. Feel free to [contact us](/contact) for our ledger.
 
 We have a [rigorous vetting process](/apply) for all sponsorship recipients.
 
 All financial contributions are 501(c)(3) deductible.
 
-{{< button "Donate $1.00 to $1,000,000.00" "/donate" >}}
+{{< button "Donate now!" "/donate" >}}
+
+---
+
+## 🙌 Volunteer
+
+We need all the help we can get. 
+
+Sometimes a small amount of time, and empathy can change the world.
+
+If you have either of those feel free to collaborate below and make yourself as self-sufficient as possible.
+
+If you are unsure where you can help you can always:
+
+{{< button "Sign up to Volunteer" "/volunteer" >}}
 
 ---
 
@@ -29,11 +43,17 @@ All of our work is **100% free** and always will be.
 
 We are [Apache2 open source licensed](https://github.com/privilegeescalation/.org/blob/main/LICENSE), and [readily available](https://github.com/privilegeescalation) on GitHub.
 
+If have a story we want to hear it.
+
+If need someone to talk to we are here for you.
+
+If you want to utilize our tools you are welcome to.
+
 {{< button-newtab "Join us on Discord!" "https://discord.gg/bnnpg6rqaJ" >}}
 
 ---
 
-## Code of Conduct
+## Code of Conduct 🤗
 
 Our number one rule is **respect**.
 
