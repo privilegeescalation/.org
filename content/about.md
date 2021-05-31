@@ -10,6 +10,6 @@ Founded by [Kris Nóva](/kris-nova) in 2021 with nothing more than a **broken he
 
 Our dream is to enable **gender confirming healthcare**, **financial resources**, and **overall support** for transgender minds in **STEM**.
 
-We believe that a **brilliant mind** should never have an **unsafe body** stand in their way of greatness.
+We believe that a **brilliant mind** should never be held back by their body.
 
-{{< button "Apply for a sponsorship." "/apply" >}}
+{{< button "Learn how it works" "/how-it-works" >}}

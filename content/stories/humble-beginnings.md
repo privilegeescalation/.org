@@ -1,8 +1,8 @@
 +++
 author = "Kris Nóva"
-title = "The Moment - Kris Nóva"
+title = "The Moment"
 date = "2021-05-28"
-description = "Founding The Privilege Escalation Foundation."
+description = "Imagining The Privilege Escalation Foundation."
 tags = [
 "transgender",
 "privilege",
@@ -58,5 +58,5 @@ A mind truly is a terrible thing to waste, and our blatant lack of transgender s
 
 ## Read More
 
-Read Kris Nóva's [founder's statement](/kris-nova).
+Read more about [Kris Nóva](/kris-nova).
 

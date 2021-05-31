@@ -81,16 +81,15 @@ Menu:
       identifier: about
       url: "/#about"
       weight: 1
-    - name: "Resources"
-      url: "/resources"
+    - name: "How it works"
+      url: "/how-it-works"
       weight: 2
-    - name: "Contribute"
-      url: "/contribute"
+    - name: "Donate"
+      url: "/donate"
       weight: 3
     - name: "Stories"
       url: "/stories"
       weight: 4
-    - name: "Contact"
-      identifier: contact
-      url: "/#contact"
+    - name: "Get Involved"
+      url: "/get-involved"
       weight: 5

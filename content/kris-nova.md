@@ -1,5 +1,5 @@
 +++
-title = "Kris Nóva"
+title = ""
 sub = ""
 +++
 
@@ -40,4 +40,3 @@ She has one simple goal.
  > To work towards a world where a transgender mind is never held back because of an unsafe body.
  
 ...and both her mind -- and her body -- have a lot of work to do.
- 

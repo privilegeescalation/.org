@@ -24,7 +24,9 @@
             <div class=sub-header>
               {{ .Date.Format (.Site.Params.dateform | default "January 2, 2006") }} · {{ i18n "minuteRead" .ReadingTime }}
             </div>
-
+            <div style="padding-top: 20px">
+              <!-- space -->
+            </div>
           </article>
           {{ end }}
         </div>
