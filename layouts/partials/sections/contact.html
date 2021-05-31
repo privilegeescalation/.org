@@ -1,59 +1,14 @@
-{{ if not site.Params.Feat.ajaxBasin }}
-  {{ warnf "Please set site.Params.Feat.ajaxBasin in order to use the contact form!" }} 
-{{ end }}
-<article class="container" style="padding-top: 0px">
+<div class="container middle-xs">
   <div class="row center-xs">
     <div class="col-xs-12">
-      <h1><span class="icon icon-heart"></span>Contact Us</h1>
-      <noscript>{{ i18n "nojsForm" }}</noscript>
-    </div>
-    <div>
-      <p>
-
-        We try to follow up with all requests as soon as possible. Please be patient with us as we are still learning and growing.
-
-      </p>
-      <p>
-
-        Please include what you are looking for in every request as we continue to build out various parts of the system. Make sure to let us know what we can provide for us to be as successful as possible.
-
-      </p>
-      <p>
-
-        We know you love us, and we love you too!
-        </p>
-        <p>
-        If you want to tell us you love us please mention <a href="https://twitter.com/setuid_org" style="color: #F5ABB9">@setuid_org</a> on Twitter <icon class="icon icon-twitter"> and save us both the email.
-      </p>
+      <h1>Contact Us</h1>
     </div>
   </div>
+  <div class="row center-xs">
+      <!-- Type Form -->
+      <div class="typeform-widget" data-url="https://form.typeform.com/to/XK67Ec6s?typeform-medium=embed-snippet" data-transparency="50" data-hide-headers="true" data-hide-footer="true" style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+      <!-- Type Form -->
+  </div>
+</div>
 
-  <form id="form-contact" action="https://formspree.io" method="POST">
-    <div class="row center-xs">
-      <div class="col-xs-12 col-sm-6"><input type="text" name="name" aria-label="name" placeholder="{{ i18n "name" }}" required></div>
-      <div class="col-xs-12 col-sm-6"><input type="email" id="email" name="email" aria-label="email address" placeholder="{{ i18n "email" }}" required></div>
-      {{ if .Page.Params.selectKeys -}}
-      <div class="col-xs-12 col-sm-6">
-          <select name="matter" required aria-label="email matter">
-              {{ range .Page.Params.selectKeys -}}
-              <option value="{{ . }}">{{ i18n . }}</option>
-              {{- end }}
-            </select>
-      </div>
-      {{- end }}
-      <div class="col-xs-12{{ if .Page.Params.selectKeys }} col-sm-6{{ end }}"><input type="text" name="_subject" aria-label="email subject" placeholder="{{ i18n "subject" }}" required></div>
-      <div class="col-xs-12">
-          <textarea name="message" aria-label="Please enable JS" required></textarea>
-        </div>
-      <div class="col-xs-12">
-        <textarea name="message2" aria-label="email message" placeholder="{{ i18n "message" }}" required hidden></textarea>
-      </div>
-      <div class="col-xs-12 contact-submit">
-        <input id="form-submit" type="submit" value="{{ i18n "send" }}">
-        <span id="form-sending" hidden><span class="icon icon-rocket"></span>{{ i18n "sendingEmail" }}</span>
-        <span id="form-thankyou" hidden><span class="icon icon-ok"></span>{{ i18n "thanksForYourEmail" }}</span>
-        <span id="form-error" hidden><span class="icon icon-attention"></span>{{ i18n "errorWhileSendingEmail" }}</span>
-      </div>
-    </div>
-  </form>
-</article>
+

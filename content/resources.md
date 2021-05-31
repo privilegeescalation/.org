@@ -9,9 +9,22 @@ We identify determined minds in STEM who are currently **blocked** from reaching
 
 {{< quote "Blockers are for puberty -- not for our future scientists." "Quintessence Anx" "https://twitter.com/QuintessenceAnx">}}
 
+---
+
+## Follow us on Twitter
+
 For the latest resources please see the [contribution](/contribute) page to learn how to get involved.
 
 {{< button-newtab "Follow us on Twitter for the latest updates!" "https://twitter.com/setuid_org">}}
+
+
+---
+
+## Sign Up/Subscribe
+
+We have a mailing list. Feel free to sign up below. This is the only way to subscribe to our mailing list.
+
+{{< signup >}}
 
 ---
 
