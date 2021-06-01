@@ -36,7 +36,7 @@ Upon founding, I donated a mere $1,000.00 to the foundation.
 
 We have already spent $499.95 of that on registering a trademark, filing fees, and hosting this website.
 
-As of June 1st, we have $500.05 in operating capitol.
+As of June 1st, we have $500.05 in operating capital.
 
 We plan on sharing our ledger on the website and in GitHub as soon as we can automate it. In the mean time we will [tweet](https://twitter.com/setuid_org) about it.
 
