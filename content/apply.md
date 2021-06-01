@@ -11,4 +11,9 @@ Members usually hang out [on discord](https://discord.gg/bnnpg6rqaJ).
 
 You should also have a good idea of what you need, why you can't get it, and what you would do if you were given it.
 
+There is no shame in applying. 
+I ([Kris Nóva](/kris-nova)) am a Principal Software Engineer at a publicly traded company.
+I created this foundation because I would have used it.
+All transgender people are afflicted by an absense of care -- regardless of status.     
+
 {{< apply >}}
