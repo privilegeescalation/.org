@@ -5,12 +5,13 @@ sub = ""
 
 Candidates [apply](/apply) for a **sponsorship**. 
 
-Members draft [sponsorship proposals](https://github.com/privilegeescalation/membership/tree/main/proposals#sponsorship-proposals) with candidates.
+Members draft sponsorship proposals with candidates.
 
-Members vote.
+Members vote on the proposals.
 
-Candidates are awarded **sponsorships**.
+Candidates are awarded sponsorships.
 
+The foundation funds the sponsorship.
 
 ## Members
 
