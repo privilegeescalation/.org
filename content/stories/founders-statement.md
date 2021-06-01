@@ -18,6 +18,12 @@ tags = [
 
 I have been recovering from facial feminization surgery for 2 weeks and have spent my time incorporating The Privilege Escalation Foundation in California, and filing our Founding Bylaws with the IRS.
 
+I have one simple mission.
+
+{{< quote "to enable gender confirming healthcare, financial resources, and overall support for transgender minds in STEM." "Kris Nóva" "/kris-nova" >}}
+
+---
+
 After spending the majority of my career with other Non-Profit 501(c)(3) organizations there are a few things I knew I wanted to do.
 
 The more I thought about what was important to me as a transgender person, the more I realized how passionate I was about the bylaws and posture of the organization. 
@@ -36,11 +42,11 @@ We plan on sharing our ledger on the website and in GitHub as soon as we can aut
 
 ### 2. Those who control the money are not those who spend the money
 
-Our money is managed by **The Board of Directors** -- who currently is just me.
+Our money is managed by "The Board of Directors" -- who currently is just me.
 
-Our money is awarded by a majority vote of our [members](https://github.com/privilegeescalation/membership) -- who currently is **not** me.
+Our money is then awarded by a majority vote of our [members](/members) -- who currently is **not** me.
 
-The **Board of Directors** (_currently me_) can elect **members**.
+The Board of Directors (_again -- me_) can elect **members**.
 
 Membership can also be awarded by a majority vote of **members**.
 
@@ -98,5 +104,10 @@ We will be announcing **sponsorships** as members award them.
 
 ### Thank you
 
+Now go click some buttons on the website, tell your friends and family, and consider nominating yourself to [become a member](/membership).
 
-
+ - [Learn about membership](/members)
+ - [Donate now](/donate)
+ - [Get involved](/get-involved)
+ - [Contact Us](/contact)
+ - [Media Outreach](/contact)

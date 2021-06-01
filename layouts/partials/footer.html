@@ -15,8 +15,11 @@
       {{ end }}
       {{ if or (.Site.Params.credit) (eq (isset .Site.Params "credit") false) -}}
       <div class="col-xs">
-          <small>{{ .Site.Params.SmallFooter }}</small>
+        <a href="/contact">Contact Us</a>
       </div>
+        <div class="col-xs">
+          <small>{{ .Site.Params.SmallFooter }}</small>
+        </div>
       {{- end }}
       </small>
     </div>
