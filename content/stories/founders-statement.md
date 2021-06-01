@@ -104,6 +104,17 @@ We will be announcing **membership** as new members are elected.
 
 We will be announcing **sponsorships** as members award them.
 
+### How can I help?
+
+This is my number 1 question. 
+
+The best things you can do today are 
+
+ - Help me elect [3 new members](/membership) to the foundation (nominate yourself, or somebody else).
+ - Send us brilliant transgender minds in STEM who need help.
+ - [Schedule time](/contact) with Kris Nóva to share our cause on your platform (videos, blogs, interviews, events, etc)
+ - [Donate](/donate)
+
 ### Thank you
 
 Now go click some buttons on the website, tell your friends and family, and consider nominating yourself to [become a member](/membership).
