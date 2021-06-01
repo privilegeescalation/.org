@@ -32,6 +32,8 @@ We have already spent $499.95 of that on registering a trademark, filing fees, a
 
 As of June 1st, we have $500.05 in operating capitol.
 
+We plan on sharing our ledger on the website and in GitHub as soon as we can automate it. In the mean time we will [tweet](https://twitter.com/setuid_org) about it.
+
 ### 2. Those who control the money are not those who spend the money
 
 Our money is managed by **The Board of Directors** -- who currently is just me.
@@ -71,9 +73,9 @@ All membership work is to be 100% transparent and performed in public venues.
 
 ### 5. We value diversity 
 
- > We need everyone - including white guys. 
+ > We need everyone.
 
-Having a well-balanced breadth of people working with the foundation is our primary value. So yes -- we expect to have members from all classes of the world present.
+Having a well-balanced breadth of people working with the foundation is our primary value. So yes -- we hope to have members from all classes of the world present.
 
 Members will be responsible for drafting and maintaining the following items.
 

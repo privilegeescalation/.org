@@ -7,7 +7,9 @@ We standardize donations, so we can allocate them to sponsorships accordingly.
 
 All donations are 501(c)(3) tax deductible.
 
-For donations higher than $1,000, or to set up a schedule please [contact us directly](/contact).
+Federal EIN: `87-0948507`
+
+For donations higher than $1,000, to set up a schedule, or for our mailing address please [contact us directly](/contact).
 
 ### Donate now
 
@@ -22,3 +24,4 @@ For donations higher than $1,000, or to set up a schedule please [contact us dir
 {{< donate-10 >}}
 
 ---
+
