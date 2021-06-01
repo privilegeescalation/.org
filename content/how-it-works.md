@@ -15,15 +15,13 @@ The foundation funds the sponsorship.
 
 ## Members
 
-Becoming a member is free.
+Members are volunteers and becoming a member is free.
+
+Anyone can be a member.
 
 Members decide who receives a sponsorship.
 
 Upon founding, we have 0 members.
-
-Members draft **sponsorship proposals** for **candidates**.
-
-Members vote.
 
 {{< button "How to become a member" "/membership" >}}
 
@@ -31,7 +29,7 @@ Members vote.
 
 ## Candidates 
 
-Anyone who identifies as transgender, trans identifying, or queer can become a candidate.
+Anyone in STEM who identifies as transgender, trans identifying, or queer can become a candidate.
 
 Anyone who applies for a sponsorship becomes a **candidate**.
 
