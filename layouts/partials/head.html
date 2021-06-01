@@ -32,7 +32,8 @@
 
   {{ $twitter := index (where .Site.Params.Social "type" "==" "twitter") 0 }}
   {{ with $twitter }}
-    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://privilegeescalation.org/images/twitter.png"/>
+    <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@{{ default $.Site.Params.author .name }}">
     <meta name="twitter:creator" content="@{{ default $.Site.Params.author .name }}">
   {{- end }}

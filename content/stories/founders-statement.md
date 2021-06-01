@@ -44,7 +44,7 @@ We plan on sharing our ledger on the website and in GitHub as soon as we can aut
 
 Our money is managed by "The Board of Directors" -- who currently is just me.
 
-Our money is then awarded by a majority vote of our [members](/members) -- who currently is **not** me.
+Our money is then awarded by a majority vote of our [members](/membership) -- who currently is **not** me.
 
 The Board of Directors (_again -- me_) can elect **members**.
 
