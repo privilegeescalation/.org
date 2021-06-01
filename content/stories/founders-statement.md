@@ -67,7 +67,7 @@ Because membership, voting, and awarding sponsorship will be dictated by members
 
 All membership work is to be 100% transparent and performed in public venues.
 
-{{< button "How to become a member" "https://github.com/privilegeescalation/membership/blob/main/README.md#how-to-become-a-member" >}}
+{{< button "How to become a member" "/membership" >}}
 
 ---
 

@@ -24,7 +24,7 @@ Members draft **sponsorship proposals** for **candidates**.
 
 Members vote.
 
-{{< button-newtab "How to become a member" "https://github.com/privilegeescalation/membership/blob/main/README.md#how-to-become-a-member" >}}
+{{< button "How to become a member" "/membership" >}}
 
 ---
 
