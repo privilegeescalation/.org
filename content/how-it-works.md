@@ -3,6 +3,12 @@ title = "How it works"
 sub = ""
 +++
 
+We identify transgender people in STEM who need help achieving their full potential.
+
+We help them pay for what they need through sponsorships.
+
+## Sponsorship Process
+
 Candidates [apply](/apply) for a **sponsorship**. 
 
 Members draft sponsorship proposals with candidates.

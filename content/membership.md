@@ -39,7 +39,7 @@ There isn't an application however we use a tool called [GitHub](https://github.
 
 You can [read the fine print](https://github.com/privilegeescalation/membership/blob/main/README.md#how-to-become-a-member) about the process of becoming a member.
 
-You can also [talk to us on Discord](https://discord.gg/bnnpg6rqaJ) directly about becoming a member.
+Also please do [talk to us on Discord](https://discord.gg/bnnpg6rqaJ) directly about becoming a member.
 
 ### Who appoints the first members? 
 

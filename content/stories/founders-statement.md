@@ -73,6 +73,8 @@ Because membership, voting, and awarding sponsorship will be dictated by members
 
 All membership work is to be 100% transparent and performed in public venues.
 
+We have an **immediate need** for members! Please help us give our money to transgender minds in stem today.
+
 {{< button "How to become a member" "/membership" >}}
 
 ---
