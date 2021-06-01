@@ -106,7 +106,8 @@ We will be announcing **sponsorships** as members award them.
 
 Now go click some buttons on the website, tell your friends and family, and consider nominating yourself to [become a member](/membership).
 
- - [Learn about membership](/members)
+ - [How it works](how-it-works)
+ - [Learn about membership](/membership)
  - [Donate now](/donate)
  - [Get involved](/get-involved)
  - [Contact Us](/contact)
