@@ -1,7 +1,7 @@
 +++
 author = "Kris Nóva"
 title = "Founder's Statement"
-date = "2021-06-01"
+date = "2021-05-31"
 description = "Founding The Privilege Escalation Foundation."
 tags = [
 "transgender",
@@ -24,7 +24,7 @@ The more I thought about what was important to me as a transgender person, the m
 
 So I want to publicly announce a few things right away just to set the tone of things.
 
-### 1. Our ledger will always be 100% transparent. 
+### 1. Our ledger will always be 100% transparent
 
 Upon founding, I donated a mere $1,000.00 to the foundation. 
 
@@ -94,8 +94,7 @@ We will be announcing **membership** as new members are elected.
 
 We will be announcing **sponsorships** as members award them.
 
-### Thank you - Let's change some fucking lives.
-
+### Thank you
 
 
 
