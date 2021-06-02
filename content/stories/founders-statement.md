@@ -24,7 +24,7 @@ I have one simple mission.
 
 ---
 
-After spending the majority of my career with other Non-Profit 501(c)(3) organizations there are a few things I knew I wanted to do.
+After spending the majority of my career with other Non-Profit organizations there are a few things I knew I wanted to do.
 
 The more I thought about what was important to me as a transgender person, the more I realized how passionate I was about the bylaws and posture of the organization. 
 
