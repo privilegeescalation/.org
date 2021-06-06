@@ -12,7 +12,7 @@ tags = [
 ]
 +++
 
-In 2021, I was sitting in a hospital bed in San Franciscio, California waiting to go into facial feminization surgery.
+In 2021, I was sitting in a hospital bed in San Francisco, California waiting to go into facial feminization surgery.
 
 I remember thinking to myself
 
