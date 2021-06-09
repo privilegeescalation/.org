@@ -106,14 +106,15 @@ We will be announcing **sponsorships** as members award them.
 
 ### How can I help?
 
-This is my number 1 question. 
+I get asked this question a lot. Sincerely here is what I think you should do:
 
-The best things you can do today are 
-
- - Help me elect [3 new members](/membership) to the foundation (nominate yourself, or somebody else).
- - Send us brilliant transgender minds in STEM who need help.
+ - Help me elect [3 new members](/membership) to the foundation (nominate yourself, or somebody else, roll up your sleeves and get pull requests opened up).
+ - Send us brilliant transgender minds in STEM who need help. Sincerely. Send us your queer, tired, exhausted transgender people. We want to give them money.
  - [Schedule time](/contact) with Kris Nóva to share our cause on your platform (videos, blogs, interviews, events, etc)
- - [Donate](/donate)
+
+{{< donate-popup >}}
+
+---
 
 ### Thank you
 
