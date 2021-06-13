@@ -3,12 +3,17 @@ title = "Donate"
 sub = ""
 +++
 
-We standardize donations, so we can allocate them to sponsorships accordingly. 
-
 All donations are 501(c)(3) tax deductible.
 
-Federal EIN: `87-0948507`
-
-For our mailing address please [contact us directly](/contact).
+## Donate Now
 
 {{< donate >}}
+
+## Direct Donation Information
+
+> The Privilege Escalation Foundation
+>
+> PO Box 78486
+> San Francisco, CA 94107
+>
+> Federal EIN: 87-0948507
