@@ -17,20 +17,24 @@ I feel very proud of this foundation, and the person I have become.
 
 If you are new here, feel free to read my original [founder's statement](/stories/founders-statement/) to learn more about what I am hoping to do and how everything works.
 
----
+### A quick update.
 
-On June 1st we were officially incorporated and recognized by the IRS as a 501(c)(3) charitable non-profit. 
+We raised over $5,000.00 dollars in the last 2 weeks 🎉
 
-In 2 short weeks, we have already seen some traction.
+We have read 4 [membership proposals](https://github.com/privilegeescalation/membership/pulls), and are starting to take a look at bringing on other members for the board of directors.
 
-We have seen some [membership proposals](https://github.com/privilegeescalation/membership/pulls), and are starting to take a look at bringing on other members for the board of directors.
+We have seen 5 [applications](/apply) for sponsorship.
+
+We are looking to (slowly) grow.
+
+ > Our goal is to have our first sponsorship paid out in July.
 
 This is where YOU come in.
 
 We are looking for nice, peaceful folks to help out with a few things.
 
- - [Members](/membership) We are looking for folks to help with grants and sponsorships.
- - [Candidates](/apply/) We are looking for any transgender or queer person in STEM who would benefit from the organization.
+ - [Members](/membership): We are looking for folks to help with grants and sponsorships.
+ - [Candidates](/apply/):  We are looking for any transgender or queer person in STEM who would benefit from the organization.
 
 ## Members
 
