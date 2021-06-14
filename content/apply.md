@@ -16,4 +16,8 @@ I ([Kris Nóva](/kris-nova)) am a Principal Software Engineer at a publicly trad
 I created this foundation because I would have used it.
 All transgender people are afflicted by an absense of care -- regardless of status.     
 
+# 10 Questions 
+
+This should only take about 5 minutes. It's okay if your answers are incomplete. We must start somewhere.
+
 {{< apply >}}

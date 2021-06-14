@@ -60,7 +60,7 @@ Please consider [emailing us](mailto:info@privilegeescalation.org) or reaching o
 
 # Board of Directors
 
-If you or someone you know is interested in a leadership position with the foundation, or an opportunity to serve on a formal Board of Directors please do email our found [Kris Nóva](mailto:nova@privilegeescalation.org).
+If you or someone you know is interested in a leadership position with the foundation, or an opportunity to serve on a formal Board of Directors please do email our founder [Kris Nóva](mailto:nova@privilegeescalation.org).
 
 ### Expectations
 
