@@ -7,6 +7,8 @@ We identify transgender people in STEM who need help achieving their full potent
 
 We help them pay for what they need through sponsorships.
 
+Read our [Founder's Statement](/stories/founders-statement/) which has more information about what we are doing and how things work.
+
 ## Sponsorship Process
 
 Candidates [apply](/apply) for a **sponsorship**. 

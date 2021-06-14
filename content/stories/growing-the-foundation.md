@@ -15,6 +15,8 @@ tags = [
 First and foremost happy Pride 🏳️‍🌈 everyone. 
 I feel very proud of this foundation, and the person I have become.
 
+If you are new here, feel free to read my original [founder's statement](/stories/founders-statement/) to learn more about what I am hoping to do and how everything works.
+
 ---
 
 On June 1st we were officially incorporated and recognized by the IRS as a 501(c)(3) charitable non-profit. 
